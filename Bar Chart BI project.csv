@@ -1,0 +1,25 @@
+﻿Gender,Department,Count of Gender
+Female,Accounting,28
+Female,Business Development,41
+Female,Engineering,38
+Female,Human Resources,41
+Female,Legal,34
+Female,Marketing,31
+Female,Product Management,41
+Female,Research and Development,38
+Female,Sales,36
+Female,Services,42
+Female,Support,35
+Female,Training,36
+Male,Accounting,39
+Male,Business Development,40
+Male,Engineering,42
+Male,Human Resources,41
+Male,Legal,54
+Male,Marketing,34
+Male,Product Management,48
+Male,Research and Development,36
+Male,Sales,44
+Male,Services,40
+Male,Support,46
+Male,Training,41
