@@ -21,7 +21,7 @@ revealing other issues like the gender pay gap, amongst other possible issues
 	- For Data Cleaning
    	- For Data Wrangling
    	- For Data Manipulation
-- Microsoft Power BI [Download here](https://www.microsoft.com/sql-server/sql-server-downloads](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Microsoft Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
     - For Data Manipulation
     -  For Analysis
     - For Visualization
